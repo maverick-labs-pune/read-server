@@ -1,0 +1,8 @@
+.idea/*
+*.pyc
+*.sqlite3
+*.retry
+*.tar.gz
+docs/site/*
+.idea/
+*.pem

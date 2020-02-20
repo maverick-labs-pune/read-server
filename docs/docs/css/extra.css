@@ -1,0 +1,15 @@
+.md-header{
+    background-color: #0A1A44;
+}
+.md-footer-nav{
+    background-color: #0A1A44;
+}
+.md-footer-meta{
+    background-color: #0A1A44;
+}
+.md-grid{
+    max-width: 70rem;
+}
+.md-sidebar--secondary {
+    margin-left: 70rem;
+}

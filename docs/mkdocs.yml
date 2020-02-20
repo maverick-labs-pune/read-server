@@ -1,0 +1,30 @@
+site_name: The Read Project
+theme:
+  name: 'material'
+extra_css: [css/extra.css]
+nav:
+- Home Page: 'index.md'
+- Read Admin: 'read_admin.md'
+- NGO Admin:
+   - 'Introduction': 'ngo_admin_intro.md'
+   - 'School': 'ngo_admin_school.md'
+   - 'Book': 'ngo_admin_book.md'
+   - 'Student': 'ngo_admin_student.md'
+   - 'Session': 'ngo_admin_session.md'
+   - 'User': 'ngo_admin_user.md'
+   - 'NGO': 'ngo_admin_ngo.md'
+
+- Book Fairy:
+   - 'Webapp':
+        - 'Home page': 'book_fairy_webapp_home_page.md'
+        - 'Evaluate Session': 'book_fairy_webapp_evaluate.md'
+        - 'Account Settings': 'account_settings.md'
+   - 'Android App':
+       - 'Introduction': 'book_fairy_android_app_intro.md'
+
+- Supervisor:
+      - 'Home page': 'supervisor_home_page.md'
+      - 'Approve Session': 'supervisor_approve_session.md'
+      - 'Account Settings': 'account_settings.md'
+
+- Account Settings: 'account_settings.md'
