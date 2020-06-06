@@ -4,7 +4,7 @@ Click==7.0
 coreapi==2.3.3
 coreschema==0.0.4
 cssselect2==0.2.1
-Django==2.1.5
+Django==2.2.13
 django-cors-headers==2.4.0
 django-debug-permissions==1.0.0
 django-extensions==2.1.5
