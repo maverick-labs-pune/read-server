@@ -9,7 +9,7 @@ django-cors-headers==2.4.0
 django-debug-permissions==1.0.0
 django-extensions==2.1.5
 django-mailgun==0.9.1
-djangorestframework==3.9.1
+djangorestframework==3.11.2
 djangorestframework-stubs==0.2.0
 et-xmlfile==1.0.1
 idna==2.8
