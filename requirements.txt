@@ -33,7 +33,7 @@ pyparsing==2.3.1
 PyQRCode==1.2.1
 pytz==2018.9
 PyYAML==3.13
-reportlab==3.5.21
+reportlab==3.5.55
 requests==2.21.0
 six==1.12.0
 svglib==0.9.0
